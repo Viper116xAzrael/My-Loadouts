@@ -4,7 +4,7 @@ My Call of Duty®: Mobile Loadouts that i use in Ranked Multiplayer, Regular Mul
 ---
 
 ## Frequently Asked Questions
-___Why create my own Loadout Repository?___
+___Why create a Loadout Repository?___
 
 I want my loadouts to be public so people that play Call of Duty®: Mobile can experiance my loadouts in Multiplayer and Battle Royale
 
