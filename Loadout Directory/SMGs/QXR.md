@@ -1,10 +1,10 @@
-## QQ9 Sub Machine Gun
+## QXR Sub Machine Gun
 
 ---
 
 Gun Information/Bio:
 
-_Fully automatic sub machine gun. Increased range and reduced recoil_
+_N/A_
 
 ---
 
